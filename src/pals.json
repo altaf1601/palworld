@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Pal1",
+    "name": "Lamball",
     "stats": {
       "hp": 71,
       "attack": {
@@ -28,7 +28,7 @@
   },
   {
     "id": 2,
-    "name": "Pal2",
+    "name": "Cattiva",
     "stats": {
       "hp": 72,
       "attack": {
@@ -60,7 +60,7 @@
   },
   {
     "id": 3,
-    "name": "Pal3",
+    "name": "Chikipi",
     "stats": {
       "hp": 73,
       "attack": {
@@ -81,7 +81,7 @@
   },
   {
     "id": 4,
-    "name": "Pal4",
+    "name": "Lifmunk",
     "stats": {
       "hp": 74,
       "attack": {
@@ -108,7 +108,7 @@
   },
   {
     "id": 5,
-    "name": "Pal5",
+    "name": "Foxparks",
     "stats": {
       "hp": 75,
       "attack": {
@@ -140,7 +140,7 @@
   },
   {
     "id": 6,
-    "name": "Pal6",
+    "name": "Fuack",
     "stats": {
       "hp": 76,
       "attack": {
@@ -161,7 +161,7 @@
   },
   {
     "id": 7,
-    "name": "Pal7",
+    "name": "Sparkit",
     "stats": {
       "hp": 77,
       "attack": {
@@ -188,7 +188,7 @@
   },
   {
     "id": 8,
-    "name": "Pal8",
+    "name": "Tanzee",
     "stats": {
       "hp": 78,
       "attack": {
@@ -220,7 +220,7 @@
   },
   {
     "id": 9,
-    "name": "Pal9",
+    "name": "Rooby",
     "stats": {
       "hp": 79,
       "attack": {
@@ -241,7 +241,7 @@
   },
   {
     "id": 10,
-    "name": "Pal10",
+    "name": "Pengullet",
     "stats": {
       "hp": 80,
       "attack": {
@@ -268,7 +268,7 @@
   },
   {
     "id": 11,
-    "name": "Pal11",
+    "name": "Penking",
     "stats": {
       "hp": 81,
       "attack": {
@@ -300,7 +300,7 @@
   },
   {
     "id": 12,
-    "name": "Pal12",
+    "name": "Jolthog",
     "stats": {
       "hp": 82,
       "attack": {
@@ -321,7 +321,7 @@
   },
   {
     "id": 13,
-    "name": "Pal13",
+    "name": "Jolthog Cryst",
     "stats": {
       "hp": 83,
       "attack": {
@@ -348,7 +348,7 @@
   },
   {
     "id": 14,
-    "name": "Pal14",
+    "name": "Gumoss",
     "stats": {
       "hp": 84,
       "attack": {
@@ -380,7 +380,7 @@
   },
   {
     "id": 15,
-    "name": "Pal15",
+    "name": "Gumoss (Mega)",
     "stats": {
       "hp": 85,
       "attack": {
@@ -401,7 +401,7 @@
   },
   {
     "id": 16,
-    "name": "Pal16",
+    "name": "Vixy",
     "stats": {
       "hp": 86,
       "attack": {
@@ -428,7 +428,7 @@
   },
   {
     "id": 17,
-    "name": "Pal17",
+    "name": "Hoocrates",
     "stats": {
       "hp": 87,
       "attack": {
@@ -460,7 +460,7 @@
   },
   {
     "id": 18,
-    "name": "Pal18",
+    "name": "Teafant",
     "stats": {
       "hp": 88,
       "attack": {
@@ -481,7 +481,7 @@
   },
   {
     "id": 19,
-    "name": "Pal19",
+    "name": "Depresso",
     "stats": {
       "hp": 89,
       "attack": {
@@ -508,7 +508,7 @@
   },
   {
     "id": 20,
-    "name": "Pal20",
+    "name": "Cremis",
     "stats": {
       "hp": 90,
       "attack": {
@@ -540,7 +540,7 @@
   },
   {
     "id": 21,
-    "name": "Pal21",
+    "name": "Daedream",
     "stats": {
       "hp": 91,
       "attack": {
@@ -561,7 +561,7 @@
   },
   {
     "id": 22,
-    "name": "Pal22",
+    "name": "Rushoar",
     "stats": {
       "hp": 92,
       "attack": {
@@ -588,7 +588,7 @@
   },
   {
     "id": 23,
-    "name": "Pal23",
+    "name": "Nox",
     "stats": {
       "hp": 93,
       "attack": {
@@ -620,7 +620,7 @@
   },
   {
     "id": 24,
-    "name": "Pal24",
+    "name": "Fuddler",
     "stats": {
       "hp": 94,
       "attack": {
@@ -641,7 +641,7 @@
   },
   {
     "id": 25,
-    "name": "Pal25",
+    "name": "Killamari",
     "stats": {
       "hp": 95,
       "attack": {
@@ -668,7 +668,7 @@
   },
   {
     "id": 26,
-    "name": "Pal26",
+    "name": "Mau",
     "stats": {
       "hp": 96,
       "attack": {
@@ -700,7 +700,7 @@
   },
   {
     "id": 27,
-    "name": "Pal27",
+    "name": "Mau Cryst",
     "stats": {
       "hp": 97,
       "attack": {
@@ -721,7 +721,7 @@
   },
   {
     "id": 28,
-    "name": "Pal28",
+    "name": "Celaray",
     "stats": {
       "hp": 98,
       "attack": {
@@ -748,7 +748,7 @@
   },
   {
     "id": 29,
-    "name": "Pal29",
+    "name": "Direhowl",
     "stats": {
       "hp": 99,
       "attack": {
@@ -780,7 +780,7 @@
   },
   {
     "id": 30,
-    "name": "Pal30",
+    "name": "Tocotoco",
     "stats": {
       "hp": 70,
       "attack": {
@@ -801,7 +801,7 @@
   },
   {
     "id": 31,
-    "name": "Pal31",
+    "name": "Flopie",
     "stats": {
       "hp": 71,
       "attack": {
@@ -828,7 +828,7 @@
   },
   {
     "id": 32,
-    "name": "Pal32",
+    "name": "Mozzarina",
     "stats": {
       "hp": 72,
       "attack": {
@@ -860,7 +860,7 @@
   },
   {
     "id": 33,
-    "name": "Pal33",
+    "name": "Bristla",
     "stats": {
       "hp": 73,
       "attack": {
@@ -881,7 +881,7 @@
   },
   {
     "id": 34,
-    "name": "Pal34",
+    "name": "Gobfin",
     "stats": {
       "hp": 74,
       "attack": {
@@ -908,7 +908,7 @@
   },
   {
     "id": 35,
-    "name": "Pal35",
+    "name": "Gobfin Ignis",
     "stats": {
       "hp": 75,
       "attack": {
@@ -940,7 +940,7 @@
   },
   {
     "id": 36,
-    "name": "Pal36",
+    "name": "Hangyu",
     "stats": {
       "hp": 76,
       "attack": {
@@ -961,7 +961,7 @@
   },
   {
     "id": 37,
-    "name": "Pal37",
+    "name": "Hangyu Cryst",
     "stats": {
       "hp": 77,
       "attack": {
@@ -988,7 +988,7 @@
   },
   {
     "id": 38,
-    "name": "Pal38",
+    "name": "Mossanda",
     "stats": {
       "hp": 78,
       "attack": {
@@ -1020,7 +1020,7 @@
   },
   {
     "id": 39,
-    "name": "Pal39",
+    "name": "Mossanda Lux",
     "stats": {
       "hp": 79,
       "attack": {
@@ -1041,7 +1041,7 @@
   },
   {
     "id": 40,
-    "name": "Pal40",
+    "name": "Woolipop",
     "stats": {
       "hp": 80,
       "attack": {
@@ -1068,7 +1068,7 @@
   },
   {
     "id": 41,
-    "name": "Pal41",
+    "name": "Caprity",
     "stats": {
       "hp": 81,
       "attack": {
@@ -1100,7 +1100,7 @@
   },
   {
     "id": 42,
-    "name": "Pal42",
+    "name": "Melpaca",
     "stats": {
       "hp": 82,
       "attack": {
@@ -1121,7 +1121,7 @@
   },
   {
     "id": 43,
-    "name": "Pal43",
+    "name": "Eikthyrdeer",
     "stats": {
       "hp": 83,
       "attack": {
@@ -1148,7 +1148,7 @@
   },
   {
     "id": 44,
-    "name": "Pal44",
+    "name": "Eikthyrdeer Terra",
     "stats": {
       "hp": 84,
       "attack": {
@@ -1180,7 +1180,7 @@
   },
   {
     "id": 45,
-    "name": "Pal45",
+    "name": "Nitewing",
     "stats": {
       "hp": 85,
       "attack": {
@@ -1201,7 +1201,7 @@
   },
   {
     "id": 46,
-    "name": "Pal46",
+    "name": "Ribbuny",
     "stats": {
       "hp": 86,
       "attack": {
@@ -1228,7 +1228,7 @@
   },
   {
     "id": 47,
-    "name": "Pal47",
+    "name": "Incineram",
     "stats": {
       "hp": 87,
       "attack": {
@@ -1260,7 +1260,7 @@
   },
   {
     "id": 48,
-    "name": "Pal48",
+    "name": "Incineram Noct",
     "stats": {
       "hp": 88,
       "attack": {
@@ -1281,7 +1281,7 @@
   },
   {
     "id": 49,
-    "name": "Pal49",
+    "name": "Cinnamoth",
     "stats": {
       "hp": 89,
       "attack": {
@@ -1308,7 +1308,7 @@
   },
   {
     "id": 50,
-    "name": "Pal50",
+    "name": "Arsox",
     "stats": {
       "hp": 90,
       "attack": {
@@ -1340,7 +1340,7 @@
   },
   {
     "id": 51,
-    "name": "Pal51",
+    "name": "Dumud",
     "stats": {
       "hp": 91,
       "attack": {
@@ -1361,7 +1361,7 @@
   },
   {
     "id": 52,
-    "name": "Pal52",
+    "name": "Cawgnito",
     "stats": {
       "hp": 92,
       "attack": {
@@ -1388,7 +1388,7 @@
   },
   {
     "id": 53,
-    "name": "Pal53",
+    "name": "Leezpunk",
     "stats": {
       "hp": 93,
       "attack": {
@@ -1420,7 +1420,7 @@
   },
   {
     "id": 54,
-    "name": "Pal54",
+    "name": "Leezpunk Ignis",
     "stats": {
       "hp": 94,
       "attack": {
@@ -1441,7 +1441,7 @@
   },
   {
     "id": 55,
-    "name": "Pal55",
+    "name": "Loupmoon",
     "stats": {
       "hp": 95,
       "attack": {
@@ -1468,7 +1468,7 @@
   },
   {
     "id": 56,
-    "name": "Pal56",
+    "name": "Galeclaw",
     "stats": {
       "hp": 96,
       "attack": {
@@ -1500,7 +1500,7 @@
   },
   {
     "id": 57,
-    "name": "Pal57",
+    "name": "Robinquill",
     "stats": {
       "hp": 97,
       "attack": {
@@ -1521,7 +1521,7 @@
   },
   {
     "id": 58,
-    "name": "Pal58",
+    "name": "Robinquill Terra",
     "stats": {
       "hp": 98,
       "attack": {
@@ -1548,7 +1548,7 @@
   },
   {
     "id": 59,
-    "name": "Pal59",
+    "name": "Gorirat",
     "stats": {
       "hp": 99,
       "attack": {
@@ -1580,7 +1580,7 @@
   },
   {
     "id": 60,
-    "name": "Pal60",
+    "name": "Beegarde",
     "stats": {
       "hp": 70,
       "attack": {
@@ -1601,7 +1601,7 @@
   },
   {
     "id": 61,
-    "name": "Pal61",
+    "name": "Elizabee",
     "stats": {
       "hp": 71,
       "attack": {
@@ -1628,7 +1628,7 @@
   },
   {
     "id": 62,
-    "name": "Pal62",
+    "name": "Grintale",
     "stats": {
       "hp": 72,
       "attack": {
@@ -1660,7 +1660,7 @@
   },
   {
     "id": 63,
-    "name": "Pal63",
+    "name": "Swee",
     "stats": {
       "hp": 73,
       "attack": {
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 64,
-    "name": "Pal64",
+    "name": "Sweepa",
     "stats": {
       "hp": 74,
       "attack": {
@@ -1708,7 +1708,7 @@
   },
   {
     "id": 65,
-    "name": "Pal65",
+    "name": "Chillet",
     "stats": {
       "hp": 75,
       "attack": {
@@ -1740,7 +1740,7 @@
   },
   {
     "id": 66,
-    "name": "Pal66",
+    "name": "Univolt",
     "stats": {
       "hp": 76,
       "attack": {
@@ -1761,7 +1761,7 @@
   },
   {
     "id": 67,
-    "name": "Pal67",
+    "name": "Foxcicle",
     "stats": {
       "hp": 77,
       "attack": {
@@ -1788,7 +1788,7 @@
   },
   {
     "id": 68,
-    "name": "Pal68",
+    "name": "Pyrin",
     "stats": {
       "hp": 78,
       "attack": {
@@ -1820,7 +1820,7 @@
   },
   {
     "id": 69,
-    "name": "Pal69",
+    "name": "Pyrin Noct",
     "stats": {
       "hp": 79,
       "attack": {
@@ -1841,7 +1841,7 @@
   },
   {
     "id": 70,
-    "name": "Pal70",
+    "name": "Reindrix",
     "stats": {
       "hp": 80,
       "attack": {
@@ -1868,7 +1868,7 @@
   },
   {
     "id": 71,
-    "name": "Pal71",
+    "name": "Rayhound",
     "stats": {
       "hp": 81,
       "attack": {
@@ -1900,7 +1900,7 @@
   },
   {
     "id": 72,
-    "name": "Pal72",
+    "name": "Kitsun",
     "stats": {
       "hp": 82,
       "attack": {
@@ -1921,7 +1921,7 @@
   },
   {
     "id": 73,
-    "name": "Pal73",
+    "name": "Dazzi",
     "stats": {
       "hp": 83,
       "attack": {
@@ -1948,7 +1948,7 @@
   },
   {
     "id": 74,
-    "name": "Pal74",
+    "name": "Lunaris",
     "stats": {
       "hp": 84,
       "attack": {
@@ -1980,7 +1980,7 @@
   },
   {
     "id": 75,
-    "name": "Pal75",
+    "name": "Dinossom",
     "stats": {
       "hp": 85,
       "attack": {
@@ -2001,7 +2001,7 @@
   },
   {
     "id": 76,
-    "name": "Pal76",
+    "name": "Dinossom Lux",
     "stats": {
       "hp": 86,
       "attack": {
@@ -2028,7 +2028,7 @@
   },
   {
     "id": 77,
-    "name": "Pal77",
+    "name": "Surfent",
     "stats": {
       "hp": 87,
       "attack": {
@@ -2060,7 +2060,7 @@
   },
   {
     "id": 78,
-    "name": "Pal78",
+    "name": "Surfent Terra",
     "stats": {
       "hp": 88,
       "attack": {
@@ -2081,7 +2081,7 @@
   },
   {
     "id": 79,
-    "name": "Pal79",
+    "name": "Maraith",
     "stats": {
       "hp": 89,
       "attack": {
@@ -2108,7 +2108,7 @@
   },
   {
     "id": 80,
-    "name": "Pal80",
+    "name": "Digtoise",
     "stats": {
       "hp": 90,
       "attack": {
@@ -2140,7 +2140,7 @@
   },
   {
     "id": 81,
-    "name": "Pal81",
+    "name": "Tombat",
     "stats": {
       "hp": 91,
       "attack": {
@@ -2161,7 +2161,7 @@
   },
   {
     "id": 82,
-    "name": "Pal82",
+    "name": "Lovander",
     "stats": {
       "hp": 92,
       "attack": {
@@ -2188,7 +2188,7 @@
   },
   {
     "id": 83,
-    "name": "Pal83",
+    "name": "Flambelle",
     "stats": {
       "hp": 93,
       "attack": {
@@ -2220,7 +2220,7 @@
   },
   {
     "id": 84,
-    "name": "Pal84",
+    "name": "Vanwyrm",
     "stats": {
       "hp": 94,
       "attack": {
@@ -2241,7 +2241,7 @@
   },
   {
     "id": 85,
-    "name": "Pal85",
+    "name": "Vanwyrm Cryst",
     "stats": {
       "hp": 95,
       "attack": {
@@ -2268,7 +2268,7 @@
   },
   {
     "id": 86,
-    "name": "Pal86",
+    "name": "Bushi",
     "stats": {
       "hp": 96,
       "attack": {
@@ -2300,7 +2300,7 @@
   },
   {
     "id": 87,
-    "name": "Pal87",
+    "name": "Beakon",
     "stats": {
       "hp": 97,
       "attack": {
@@ -2321,7 +2321,7 @@
   },
   {
     "id": 88,
-    "name": "Pal88",
+    "name": "Ragnahawk",
     "stats": {
       "hp": 98,
       "attack": {
@@ -2348,7 +2348,7 @@
   },
   {
     "id": 89,
-    "name": "Pal89",
+    "name": "Katress",
     "stats": {
       "hp": 99,
       "attack": {
@@ -2380,7 +2380,7 @@
   },
   {
     "id": 90,
-    "name": "Pal90",
+    "name": "Wixen",
     "stats": {
       "hp": 70,
       "attack": {
@@ -2401,7 +2401,7 @@
   },
   {
     "id": 91,
-    "name": "Pal91",
+    "name": "Verdash",
     "stats": {
       "hp": 71,
       "attack": {
@@ -2428,7 +2428,7 @@
   },
   {
     "id": 92,
-    "name": "Pal92",
+    "name": "Vaelet",
     "stats": {
       "hp": 72,
       "attack": {
@@ -2460,7 +2460,7 @@
   },
   {
     "id": 93,
-    "name": "Pal93",
+    "name": "Sibelyx",
     "stats": {
       "hp": 73,
       "attack": {
@@ -2481,7 +2481,7 @@
   },
   {
     "id": 94,
-    "name": "Pal94",
+    "name": "Elphidran",
     "stats": {
       "hp": 74,
       "attack": {
@@ -2508,7 +2508,7 @@
   },
   {
     "id": 95,
-    "name": "Pal95",
+    "name": "Elphidran Aqua",
     "stats": {
       "hp": 75,
       "attack": {
@@ -2540,7 +2540,7 @@
   },
   {
     "id": 96,
-    "name": "Pal96",
+    "name": "Kelpsea",
     "stats": {
       "hp": 76,
       "attack": {
@@ -2561,7 +2561,7 @@
   },
   {
     "id": 97,
-    "name": "Pal97",
+    "name": "Kelpsea Ignis",
     "stats": {
       "hp": 77,
       "attack": {
@@ -2588,7 +2588,7 @@
   },
   {
     "id": 98,
-    "name": "Pal98",
+    "name": "Azurobe",
     "stats": {
       "hp": 78,
       "attack": {
@@ -2620,7 +2620,7 @@
   },
   {
     "id": 99,
-    "name": "Pal99",
+    "name": "Cryolinx",
     "stats": {
       "hp": 79,
       "attack": {
@@ -2641,7 +2641,7 @@
   },
   {
     "id": 100,
-    "name": "Pal100",
+    "name": "Blazehowl",
     "stats": {
       "hp": 80,
       "attack": {
@@ -2668,7 +2668,7 @@
   },
   {
     "id": 101,
-    "name": "Pal101",
+    "name": "Blazehowl Noct",
     "stats": {
       "hp": 81,
       "attack": {
@@ -2700,7 +2700,7 @@
   },
   {
     "id": 102,
-    "name": "Pal102",
+    "name": "Relaxaurus",
     "stats": {
       "hp": 82,
       "attack": {
@@ -2721,7 +2721,7 @@
   },
   {
     "id": 103,
-    "name": "Pal103",
+    "name": "Relaxaurus Lux",
     "stats": {
       "hp": 83,
       "attack": {
@@ -2748,7 +2748,7 @@
   },
   {
     "id": 104,
-    "name": "Pal104",
+    "name": "Broncherry",
     "stats": {
       "hp": 84,
       "attack": {
@@ -2780,7 +2780,7 @@
   },
   {
     "id": 105,
-    "name": "Pal105",
+    "name": "Broncherry Aqua",
     "stats": {
       "hp": 85,
       "attack": {
@@ -2801,7 +2801,7 @@
   },
   {
     "id": 106,
-    "name": "Pal106",
+    "name": "Petallia",
     "stats": {
       "hp": 86,
       "attack": {
@@ -2828,7 +2828,7 @@
   },
   {
     "id": 107,
-    "name": "Pal107",
+    "name": "Reptyro",
     "stats": {
       "hp": 87,
       "attack": {
@@ -2860,7 +2860,7 @@
   },
   {
     "id": 108,
-    "name": "Pal108",
+    "name": "Reptyro Cryst",
     "stats": {
       "hp": 88,
       "attack": {
@@ -2881,7 +2881,7 @@
   },
   {
     "id": 109,
-    "name": "Pal109",
+    "name": "Kingpaca",
     "stats": {
       "hp": 89,
       "attack": {
@@ -2908,7 +2908,7 @@
   },
   {
     "id": 110,
-    "name": "Pal110",
+    "name": "Kingpaca Cryst",
     "stats": {
       "hp": 90,
       "attack": {
@@ -2940,7 +2940,7 @@
   },
   {
     "id": 111,
-    "name": "Pal111",
+    "name": "Mammorest",
     "stats": {
       "hp": 91,
       "attack": {
@@ -2961,7 +2961,7 @@
   },
   {
     "id": 112,
-    "name": "Pal112",
+    "name": "Mammorest Cryst",
     "stats": {
       "hp": 92,
       "attack": {
@@ -2988,7 +2988,7 @@
   },
   {
     "id": 113,
-    "name": "Pal113",
+    "name": "Warsect",
     "stats": {
       "hp": 93,
       "attack": {
@@ -3020,7 +3020,7 @@
   },
   {
     "id": 114,
-    "name": "Pal114",
+    "name": "Quivern",
     "stats": {
       "hp": 94,
       "attack": {
@@ -3041,7 +3041,7 @@
   },
   {
     "id": 115,
-    "name": "Pal115",
+    "name": "Blazamut",
     "stats": {
       "hp": 95,
       "attack": {
@@ -3068,7 +3068,7 @@
   },
   {
     "id": 116,
-    "name": "Pal116",
+    "name": "Helzephyr",
     "stats": {
       "hp": 96,
       "attack": {
@@ -3100,7 +3100,7 @@
   },
   {
     "id": 117,
-    "name": "Pal117",
+    "name": "Astegon",
     "stats": {
       "hp": 97,
       "attack": {
@@ -3121,7 +3121,7 @@
   },
   {
     "id": 118,
-    "name": "Pal118",
+    "name": "Menasting",
     "stats": {
       "hp": 98,
       "attack": {
@@ -3148,7 +3148,7 @@
   },
   {
     "id": 119,
-    "name": "Pal119",
+    "name": "Anubis",
     "stats": {
       "hp": 99,
       "attack": {
@@ -3180,7 +3180,7 @@
   },
   {
     "id": 120,
-    "name": "Pal120",
+    "name": "Jetragon",
     "stats": {
       "hp": 70,
       "attack": {
@@ -3201,7 +3201,7 @@
   },
   {
     "id": 121,
-    "name": "Pal121",
+    "name": "Suzaku",
     "stats": {
       "hp": 71,
       "attack": {
@@ -3228,7 +3228,7 @@
   },
   {
     "id": 122,
-    "name": "Pal122",
+    "name": "Suzaku Aqua",
     "stats": {
       "hp": 72,
       "attack": {
@@ -3260,7 +3260,7 @@
   },
   {
     "id": 123,
-    "name": "Pal123",
+    "name": "Grizzbolt",
     "stats": {
       "hp": 73,
       "attack": {
@@ -3281,7 +3281,7 @@
   },
   {
     "id": 124,
-    "name": "Pal124",
+    "name": "Lyleen",
     "stats": {
       "hp": 74,
       "attack": {
@@ -3308,7 +3308,7 @@
   },
   {
     "id": 125,
-    "name": "Pal125",
+    "name": "Lyleen Noct",
     "stats": {
       "hp": 75,
       "attack": {
@@ -3340,7 +3340,7 @@
   },
   {
     "id": 126,
-    "name": "Pal126",
+    "name": "Faleris",
     "stats": {
       "hp": 76,
       "attack": {
@@ -3361,7 +3361,7 @@
   },
   {
     "id": 127,
-    "name": "Pal127",
+    "name": "Orserk",
     "stats": {
       "hp": 77,
       "attack": {
@@ -3388,7 +3388,7 @@
   },
   {
     "id": 128,
-    "name": "Pal128",
+    "name": "Shadowbeak",
     "stats": {
       "hp": 78,
       "attack": {
@@ -3420,7 +3420,7 @@
   },
   {
     "id": 129,
-    "name": "Pal129",
+    "name": "Paladius",
     "stats": {
       "hp": 79,
       "attack": {
@@ -3441,7 +3441,7 @@
   },
   {
     "id": 130,
-    "name": "Pal130",
+    "name": "Necromus",
     "stats": {
       "hp": 80,
       "attack": {
@@ -3468,7 +3468,7 @@
   },
   {
     "id": 131,
-    "name": "Pal131",
+    "name": "Frostallion",
     "stats": {
       "hp": 81,
       "attack": {
@@ -3500,7 +3500,7 @@
   },
   {
     "id": 132,
-    "name": "Pal132",
+    "name": "Frostallion Noct",
     "stats": {
       "hp": 82,
       "attack": {
@@ -3521,7 +3521,7 @@
   },
   {
     "id": 133,
-    "name": "Pal133",
+    "name": "Jormuntide",
     "stats": {
       "hp": 83,
       "attack": {
@@ -3548,7 +3548,7 @@
   },
   {
     "id": 134,
-    "name": "Pal134",
+    "name": "Jormuntide Ignis",
     "stats": {
       "hp": 84,
       "attack": {
@@ -3580,7 +3580,7 @@
   },
   {
     "id": 135,
-    "name": "Pal135",
+    "name": "Shadowbeak",
     "stats": {
       "hp": 85,
       "attack": {
@@ -3601,7 +3601,7 @@
   },
   {
     "id": 136,
-    "name": "Pal136",
+    "name": "Necromus",
     "stats": {
       "hp": 86,
       "attack": {
@@ -3623,38 +3623,6 @@
         "type": "planting",
         "level": 2,
         "image": "/public/icons/planting.png"
-      }
-    ]
-  },
-  {
-    "id": 137,
-    "name": "Pal137",
-    "stats": {
-      "hp": 87,
-      "attack": {
-        "melee": 77,
-        "ranged": 79
-      },
-      "defense": 47,
-      "speed": {
-        "ride": 2,
-        "run": 3,
-        "walk": 3
-      },
-      "stamina": 107,
-      "support": 22,
-      "food": 3
-    },
-    "suitability": [
-      {
-        "type": "cooling",
-        "level": 2,
-        "image": "/public/icons/cooling.png"
-      },
-      {
-        "type": "electricity",
-        "level": 3,
-        "image": "/public/icons/electricity.png"
       }
     ]
   }
